@@ -1,0 +1,7 @@
+pypdf
+langchain
+langchain-core 
+langchain-text-splitters
+langchain_huggingface
+sentence-transformers
+langchain_groq
